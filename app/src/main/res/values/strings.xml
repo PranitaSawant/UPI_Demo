@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UPI_Demo</string>
+    <string name="please_enter_upi_id">Please Enter Upi ID</string>
+    <string name="please_enter_amount">Please Enter Amount</string>
+    <string name="pay">Pay</string>
+    <string name="add_transaction_note">Add Transaction Note</string>
+</resources>
